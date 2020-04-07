@@ -87,7 +87,7 @@ return (
               >
                 Logout
               </button>
-              <button
+              {/* <button
                 style={{
                   width: "250px",
                   borderRadius: "3px",
@@ -98,7 +98,7 @@ return (
                 className="btn btn-large waves-effect waves-light hoverable blue accent-3"
               >
                 VIEW YOUR PROFILE
-              </button>
+              </button> */}
               
             </div>
           </div>
